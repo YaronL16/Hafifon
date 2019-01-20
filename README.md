@@ -40,13 +40,10 @@ Or
 - Do `vimtutor`
 
 ### Keyboard shorcuts
-- clear
-- exit
-- search
-- delete different parts of a sentence
+- Learn terminal keyboard shorcuts
 
 ### RTFM
-- Read The Faulty Manual (`man`)
+- `man`
 
 ### Text manipulation
 - `echo`
@@ -61,6 +58,11 @@ Or
 - `awk`
 - `sed`
 
+### Basic file manipulation
+- `cp`
+- `mv`
+- `rm`
+
 ### IO redirection and Pipes
 - Redirecting STDOUT
 - Redirecting STDERR
@@ -72,11 +74,11 @@ Or
 
 ### Users and groups
 - users
+- `usermod`
 - groups
+- `groupmod`
 - /etc/passwd
 - /etc/shadows
-- `usermod`
-- `groupmod`
 - sudoers
 - `visudo`
 
