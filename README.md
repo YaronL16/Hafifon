@@ -37,7 +37,7 @@ Or
 - `exit`
 
 ### Vimtutor
-- Do `vimtutor`
+- `vimtutor`
 
 ### Keyboard shorcuts
 - Learn terminal keyboard shorcuts
