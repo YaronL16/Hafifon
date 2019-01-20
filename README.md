@@ -18,7 +18,6 @@
 
 
 
-
 # Basic Linux
 ### First steps
 Either
@@ -31,14 +30,14 @@ Or
 - Red Hat RHCSA - new to Linux course
 
 ### Navigation
-- pwd
-- ls
-- tree
-- cd
-- exit
+- `pwd`
+- `ls`
+- `tree`
+- `cd`
+- `exit`
 
 ### Vimtutor
-- Do vimtutor
+- Do `vimtutor`
 
 ### Keyboard shorcuts
 - clear
@@ -47,29 +46,48 @@ Or
 - delete different parts of a sentence
 
 ### RTFM
-- Read The Faulty Manual (man)
+- Read The Faulty Manual (`man`)
 
 ### Text manipulation
-- echo
-- cat
-- grep
-- cut
-- uniq
-- sort
-- wc
-- head
-- tail
-- awk
-- sed
+- `echo`
+- `cat`
+- `grep`
+- `cut`
+- `uniq`
+- `sort`
+- `wc`
+- `head`
+- `tail`
+- `awk`
+- `sed`
 
 ### IO redirection and Pipes
 - Redirecting STDOUT
 - Redirecting STDERR
 - Pipes
-- xargs
+- `xargs`
 
 ### FHS
 - Filesystem Hierarchy Standard
+
+### Users and groups
+- users
+- groups
+- /etc/passwd
+- /etc/shadows
+- `usermod`
+- `groupmod`
+- sudoers
+- `visudo`
+
+### File permissions
+- `chmod`
+- `chown`
+- `chgrp`
+- Sticky bit
+- `umask`
+- `getfacl`
+- `setfacl`
 
 
 # Advanced Linux
