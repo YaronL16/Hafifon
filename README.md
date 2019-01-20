@@ -73,6 +73,8 @@ Or
 - Filesystem Hierarchy Standard
 
 ### Users and groups
+- `id`
+- `whoami`
 - users
 - `usermod`
 - groups
