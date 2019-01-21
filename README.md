@@ -163,14 +163,26 @@ Or
 - `ssh-keygen`
 - `ssh-copy-id`
 - `scp`
-- SSH tunnels
+- SSH tunnels (Local, Remote and Dynamic)
 
 # Networks
-### Types of cables and transceivers
+### Hardware
+- Cables
+- Transceivers
+- Hubs
+- Bridges
+- Switches
+- Routers
 
 ### Sniffers
-- Wireshark
-- TCPdump
+- `wireshark`
+- `tcpdump`
+
+### Networking files in Linux
+- /etc/hosts
+- /etc/resolv.conf
+- /etc/sysconfig/network
+- /etc/sysconfig/network-scripts/*
 
 ### Layer 2
 - MAC addresses
@@ -194,3 +206,23 @@ Or
 ### Layer 4
 - TCP
 - UDP
+
+### Network commands
+- `arping`
+- `ping`
+- `traceroute`
+- `ifconfig`
+- `ifup`
+- `ifdown`
+- `ip`
+- `nmcli`
+- `nmtui`
+
+### DHCP
+- DHCP flow
+- DHCP server
+- `dhclient`
+  
+### DNS
+- DNS server
+- `dig`
