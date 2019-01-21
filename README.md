@@ -64,13 +64,11 @@ Or
 - `rm`
 
 ### IO redirection and Pipes
+- Redirecting STDIN
 - Redirecting STDOUT
 - Redirecting STDERR
 - Pipes
 - `xargs`
-
-### FHS
-- Filesystem Hierarchy Standard
 
 ### Users and groups
 - `id`
@@ -95,16 +93,28 @@ Or
 - `getfacl`
 - `setfacl`
 
+### Monitoring
+- `ps`
+- `top`
+- `free`
+- `du`
+- `df`
+- `lsof`
+
 ### Archives
 - `tar`
 - `gzip`
 
+### Environment variables
+- PATH
+- HOME
+
+### FHS
+- Filesystem Hierarchy Standard
 
 # Advanced Linux
 ### Processes
-- `ps`
-- `top`
-- `free`
+
 
 ### Services
 - Sysv
