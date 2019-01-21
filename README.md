@@ -18,6 +18,7 @@
 
 
 
+
 # Basic Linux
 ### First steps
 Either
@@ -123,16 +124,12 @@ Or
 ### FHS
 - Filesystem Hierarchy Standard
 
+
+
+
+
 # Advanced Linux
 ### Processes
-
-### Boot
-- Bios
-- UEFI
-- grub2
-- `dracut`
-- /boot/*
-- Single user mode
 
 ### Services
 - Runlevels
@@ -149,6 +146,9 @@ Or
 - `ssh-copy-id`
 - `scp`
 - SSH tunnels (Local, Remote and Dynamic)
+
+
+
 
 
 # Storage
@@ -172,6 +172,40 @@ Or
 
 ### LVM
 - All lvm
+
+
+
+
+
+# Boot
+- Bios
+- UEFI
+- grub2
+- `dracut`
+- /boot/*
+- The boot process
+- Single user mode
+
+
+
+
+
+# Package management
+### RPM
+- `rpm`
+
+### YUM
+- Listing
+- Searching
+- Dependencies
+- History
+- Rollback
+
+### Repositories
+- Create a repository
+
+
+
 
 
 # Networks
@@ -248,3 +282,110 @@ Or
 - Bonds
 - Teams
 - LACP
+
+
+
+
+
+# PXE and kickstart
+### PXE boot
+- PXE server
+
+### Kickstart
+- Anaconda
+
+
+
+
+
+# Basic Linux Security
+### iptables
+- netfilter
+- `iptables`
+
+### firewalld
+- `firewalld`
+- NAT with firewalld
+
+### SELinux
+- Everything about SELinux
+
+
+
+
+
+# Automation
+### Bash
+- bash
+
+### Ansible
+- Ansible
+
+
+
+
+
+# IT Tools
+### Apache
+- httpd
+
+### HAProxy
+- haproxy
+
+### Keepalived
+- keepalived
+
+
+
+
+
+# Identiy management
+### LDAP
+- ldap
+
+### Kerberos
+- kerberos
+
+### IPA
+- freeipa
+
+
+
+
+
+# Time
+### ntp
+- ntp
+- ntpd
+- chronyd
+
+### Daylight saving time
+- DST
+
+
+
+
+
+# Virtualization
+### Virtual network
+- bridges
+- ovs
+- different virtual nic types
+
+### Containers
+- namespace
+- cgroups
+- Linux containers
+- Docker
+  - Docker volumes type
+  - Docker networks
+  - Docker images
+
+
+
+
+
+# OpenStack
+- Openstack services
+- Devstack deployment
+- Openstack CLI
