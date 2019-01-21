@@ -71,17 +71,18 @@ Or
 - `xargs`
 
 ### Users and groups
-- `id`
 - `whoami`
+- `id`
 - users
 - `usermod`
 - groups
 - `groupmod`
 - /etc/passwd
 - /etc/shadows
+- /etc/group
 - `sudo`
 - `su`
-- sudoers
+- /etc/sudoers
 - `visudo`
 
 ### File permissions
@@ -100,12 +101,14 @@ Or
 - `du`
 - `df`
 - `lsof`
+- `uname`
 
 ### Archives
 - `tar`
 - `gzip`
 
 ### Environment variables
+- `env`
 - PATH
 - HOME
 
@@ -115,16 +118,22 @@ Or
 # Advanced Linux
 ### Processes
 
+### Boot
+- Bios
+- UEFI
+- grub2
+- `dracut`
+- /boot/*
+- Single user mode
 
 ### Services
+- Runlevels
 - Sysv
 - Systemd
 
 ### Timed tasks
 - Crontab
 - At
-
-### 
 
 
 # Storage
