@@ -27,9 +27,6 @@ Either
 Or
 - [Fundamentals of Red Hat Enterprise Linux redhat](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 
-Or
-- Red Hat RHCSA - new to Linux course
-
 ### Navigation
 - `pwd`
 - `ls`
