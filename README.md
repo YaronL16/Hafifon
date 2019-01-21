@@ -81,6 +81,8 @@ Or
 - `groupmod`
 - /etc/passwd
 - /etc/shadows
+- `sudo`
+- `su`
 - sudoers
 - `visudo`
 
@@ -93,9 +95,16 @@ Or
 - `getfacl`
 - `setfacl`
 
+### Archives
+- `tar`
+- `gzip`
+
 
 # Advanced Linux
 ### Processes
+- `ps`
+- `top`
+- `free`
 
 ### Services
 - Sysv
@@ -105,19 +114,30 @@ Or
 - Crontab
 - At
 
+### 
 
 
 # Storage
 ### HDD vs SSD
+- Difference between the two
+
+### Partitions
+- Partition types (Primary and Secondary)
+- `fdisk`
+- `parted`
+- `partprobe`
+- `partx`
 
 ### Filesystems
 - Types of filesystems
-- GPT vs MBR
+- GPT
+- MBR
 
 ### Raids
+- All types of raids
 
 ### LVM
-
+- All lvm
 
 
 # Networks
