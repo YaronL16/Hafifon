@@ -62,6 +62,9 @@ Or
 - `cp`
 - `mv`
 - `rm`
+- `which`
+- `locate`
+- `find`
 
 ### IO redirection and Pipes
 - Redirecting STDIN
@@ -112,6 +115,11 @@ Or
 - PATH
 - HOME
 
+### Home directory
+- .bashrc
+- .bash_profile
+- .bash_history
+
 ### FHS
 - Filesystem Hierarchy Standard
 
@@ -134,6 +142,13 @@ Or
 ### Timed tasks
 - Crontab
 - At
+
+### SSH
+- `ssh`
+- `ssh-keygen`
+- `ssh-copy-id`
+- `scp`
+- SSH tunnels (Local, Remote and Dynamic)
 
 
 # Storage
@@ -158,12 +173,6 @@ Or
 ### LVM
 - All lvm
 
-### SSH
-- `ssh`
-- `ssh-keygen`
-- `ssh-copy-id`
-- `scp`
-- SSH tunnels (Local, Remote and Dynamic)
 
 # Networks
 ### Hardware
@@ -186,6 +195,9 @@ Or
 
 ### Layer 2
 - MAC addresses
+- Frames
+- VLANs
+- 802.1q (VLAN tagging)
 
 ### Layer 3
 - IP addresses
@@ -202,6 +214,7 @@ Or
     - Multicast
     - Anycast
     - Geocast
+- Packets
 
 ### Layer 4
 - TCP
@@ -217,6 +230,9 @@ Or
 - `ip`
 - `nmcli`
 - `nmtui`
+- `netstat`
+- `ss`
+- `nmap`
 
 ### DHCP
 - DHCP flow
@@ -226,3 +242,9 @@ Or
 ### DNS
 - DNS server
 - `dig`
+- `host`
+
+### Bonds and teams
+- Bonds
+- Teams
+- LACP
