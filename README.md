@@ -110,6 +110,7 @@ Or
 ### Archives
 - `tar`
 - `gzip`
+- `unzip`
 
 ### Environment variables
 - `env`
@@ -130,6 +131,8 @@ Or
 
 # Advanced Linux
 ### Processes
+- /proc
+- /run
 
 ### Services
 - Runlevels
@@ -154,6 +157,9 @@ Or
 # Storage
 ### HDD vs SSD
 - Difference between the two
+- nvme
+- SATA
+- m.2
 
 ### Partitions
 - Partition types (Primary and Secondary)
