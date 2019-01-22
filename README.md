@@ -1,20 +1,19 @@
 # The hitchiker's guide to the CTS
 1.  Basic Linux
-2.  Advanced Linux
-3.  Storage
-4.  Boot
-5.  Package management
-6.  Networks
-7.  PXE and kickstart
-8.  Basic Linux Security
-9.  Automation
-10. IT Tools
-11. Identiy management
-12. Time
-13. Virtualization
-14. Miscellaneous
-15. OpenStack
-16. Team specific training
+2.  Storage
+3.  Boot
+4.  Package management
+5.  Networks
+6.  PXE and kickstart
+7.  Basic Linux Security
+8.  Automation
+9.  IT Tools
+10. Identiy management
+11. Time
+12. Virtualization
+13. Miscellaneous
+14. OpenStack
+15. Team specific training
 
 
 
@@ -107,6 +106,11 @@ Or
 - `lsof`
 - `uname`
 
+### Logging
+- /var/log/*
+- journalctl
+- dmesg
+
 ### Archives
 - `tar`
 - `gzip`
@@ -125,11 +129,6 @@ Or
 ### FHS
 - Filesystem Hierarchy Standard
 
-
-
-
-
-# Advanced Linux
 ### Processes
 - /proc
 - /run
@@ -191,6 +190,8 @@ Or
 - grub2
 - `dracut`
 - /boot/*
+- initramfs
+- initrd
 - The boot process
 - Single user mode
 
@@ -242,12 +243,14 @@ Or
 - 802.1q (VLAN tagging)
 - Broadcast domains
 - Collision domains
+- MTU
 
 ### Layer 3
 - IP addresses
 - Subnets
     - Class subnets
     - CIDR subnets
+    - Reserved network addresses
 - Static routes
 - Protocols
     - ARP
@@ -338,6 +341,7 @@ Or
 # IT Tools
 ### Apache
 - httpd
+- squid
 
 ### HAProxy
 - haproxy
@@ -371,6 +375,7 @@ Or
 
 ### Daylight saving time
 - DST
+- Timezones
 
 
 
@@ -397,6 +402,7 @@ Or
 
 # Miscellaneous
 - Git
+- SSL/TLS and certificates
 
 
 
