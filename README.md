@@ -12,8 +12,9 @@
 11. Identiy management
 12. Time
 13. Virtualization
-14. OpenStack
-15. Team specific training
+14. Miscellaneous
+15. OpenStack
+16. Team specific training
 
 
 
@@ -379,6 +380,13 @@ Or
   - Docker volumes type
   - Docker networks
   - Docker images
+
+
+
+
+
+# Miscellaneous
+- Git
 
 
 
