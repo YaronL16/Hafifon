@@ -76,6 +76,7 @@ Or
 - `whoami`
 - `id`
 - users
+- `useradd`
 - `usermod`
 - groups
 - `groupmod`
