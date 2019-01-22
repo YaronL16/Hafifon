@@ -80,6 +80,7 @@ Or
 - `usermod`
 - groups
 - `groupmod`
+- `passwd`
 - /etc/passwd
 - /etc/shadows
 - /etc/group
