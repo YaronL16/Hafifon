@@ -229,6 +229,8 @@ Or
 - Frames
 - VLANs
 - 802.1q (VLAN tagging)
+- Broadcast domains
+- Collision domains
 
 ### Layer 3
 - IP addresses
