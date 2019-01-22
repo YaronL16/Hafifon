@@ -175,6 +175,8 @@ Or
 
 ### Raids
 - All types of raids
+- Hardware RAID
+- Software RAID
 
 ### LVM
 - All lvm
