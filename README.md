@@ -11,4 +11,4 @@ This is the training course for the CTS trainees.
 ### Few notes:
 - This repository is for the instructor and not for the trainee.
 - Letting the trainee look up information by himself (rather than taking an online course) is highly encouraged.
-- An instructor that feels that his trainee could benefit from additional topics is encouraged to touch on them **in addition** to the required topics.
+- An instructor that feels that his trainee could benefit from additional topics is encouraged to touch on them **in addition** to the mandatory topics.
