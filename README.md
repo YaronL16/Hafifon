@@ -2,7 +2,7 @@
 
 This is the training course for the CTS trainees.
 
-#### Requirements for completing the course successfully:
+#### Requirements for successfully completing this course :
 1. The trainee must complete all the subjects listed in the syllabus.
 2. The trainee must present **at least** 1 presentation on a selected topic.
 3. The trainee must pass at both a midterm exam and a final exam.
