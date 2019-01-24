@@ -2,6 +2,10 @@
 
 This is the training course for the CTS trainees.
 
+In Syllabus.md are the madnatory subjects for the **department** training course.
+
+An addition, **team** training course, will be held by the team the trainee is assigned to.
+
 #### Requirements for successfully completing this course :
 1. The trainee must complete all the subjects listed in the syllabus.
 2. The trainee must present **at least** 1 presentation on a selected topic.
