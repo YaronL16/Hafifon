@@ -13,7 +13,7 @@
 11. Time
 12. Virtualization
 13. Miscellaneous
-14. OpenStack
+14. Basic OpenStack and Basic OpenShift
 15. Team specific training
 
 
@@ -409,7 +409,12 @@ Or
 
 
 
-# OpenStack
+# Basic OpenStack and Basic OpenShift
+
+### OpenStack
 - Openstack services
 - Devstack deployment
 - Openstack CLI
+
+### OpenShift
+- OpenShift 1 course
