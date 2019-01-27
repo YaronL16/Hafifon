@@ -8,8 +8,8 @@ An addition, a **team** training course will be held by the team the trainee is 
 
 #### Requirements for successfully completing this course :
 1. The trainee must complete all the subjects listed in the syllabus.
-2. The trainee must present **at least** 1 presentation on a selected topic.
-3. The trainee must pass at both a midterm exam and a final exam.
+2. The trainee must present **at least 1** presentation on a selected topic.
+3. The trainee must pass at both a **midterm exam** and a **final exam**.
 
 
 #### Few notes:
