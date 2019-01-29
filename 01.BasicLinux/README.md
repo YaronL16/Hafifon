@@ -80,10 +80,13 @@ Or
 - /etc/passwd
 - /etc/shadows
 - /etc/group
+- setuid
+- setgid
 - `sudo`
 - `su`
 - /etc/sudoers
 - `visudo`
+- `sudoedit`
 
 ### File permissions
 - `chmod`
