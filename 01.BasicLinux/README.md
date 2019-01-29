@@ -11,7 +11,6 @@ Or
 - [Fundamentals of Red Hat Enterprise Linux redhat](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 
 ### Navigation
-Make sure the trainee understands how to use the following commands:
 - `pwd`
 - `ls`
 - `tree`
@@ -19,7 +18,8 @@ Make sure the trainee understands how to use the following commands:
 - `exit`
 
 ### Vimtutor
-- `vimtutor`
+- Read about `vim`
+- do `vimtutor`
 
 ### Consoles types
 - Physical TTY
