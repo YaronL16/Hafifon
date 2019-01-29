@@ -11,7 +11,6 @@ Or
 - [Fundamentals of Red Hat Enterprise Linux redhat](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 
 ### Navigation
-
 Make sure the trainee understands how to use the following commands:
 - `pwd`
 - `ls`
@@ -19,31 +18,18 @@ Make sure the trainee understands how to use the following commands:
 - `cd`
 - `exit`
 
-
-**Tasks:**
-
-**Questions:**
-
-**Q**: How can I see hidden files?  
-**A**: `ls -a`
-
-**Q**: How can I see file sizes in human readable formats?  
-**A**: `ls -h`
-
-**Q**: How can I change directory to my home?  
-**A**: `cd ~`
-
-**Q**: How can I change directory to the previous current directory?  
-**A**: `cd -`
-
-**Q**: How can I change directory to the parent directory?  
-**A**: `cd ..`
-
-**Q**: What would happen if my current directory is the root directory and I use the command `cd ..`?  
-**A**: Nothing
-
 ### Vimtutor
 - `vimtutor`
+
+### Consoles types
+- Physical TTY
+- Local psudo TTY
+- Remote psudo TTY
+- `tty`
+- `who`
+
+### Wildcards
+- 
 
 ### Keyboard shorcuts
 - Learn terminal keyboard shorcuts

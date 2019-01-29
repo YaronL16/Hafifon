@@ -268,6 +268,9 @@ Or
 - TCP
 - UDP
 
+### Layer 7
+- HTTP
+
 ### Network commands
 - `arping`
 - `ping`
@@ -281,6 +284,7 @@ Or
 - `netstat`
 - `ss`
 - `nmap`
+- `netcat`
 
 ### DHCP
 - DHCP flow
