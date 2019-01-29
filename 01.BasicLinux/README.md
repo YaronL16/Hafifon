@@ -29,7 +29,10 @@ Make sure the trainee understands how to use the following commands:
 - `who`
 
 ### Wildcards
-- 
+- `*`
+- `?`
+- `[...]`
+- `!...`
 
 ### Keyboard shorcuts
 - Learn terminal keyboard shorcuts
