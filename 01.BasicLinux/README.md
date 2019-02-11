@@ -135,6 +135,7 @@ Or
 
 ### Services
 - Runlevels
+- Single user mode
 - Sysv
 - Systemd
 
