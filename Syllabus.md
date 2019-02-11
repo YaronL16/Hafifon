@@ -1,5 +1,6 @@
 # Table of content
 
+0.  Getting Started
 1.  Basic Linux
 2.  Storage
 3.  Boot
