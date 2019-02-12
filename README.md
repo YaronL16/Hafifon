@@ -20,7 +20,7 @@ An addition, a **team** training course will be held by the team the trainee is 
 
 
 ### **done:**
-- [ ]  Getting Started
+- [x]  Getting Started
 - [ ]  Basic Linux
 - [ ]  Storage
 - [ ]  Boot
