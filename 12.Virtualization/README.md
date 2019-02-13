@@ -5,6 +5,7 @@
 - bridges
 - ovs
 - different virtual nic types
+- vxlan
 
 ### Containers
 - namespace
