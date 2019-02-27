@@ -5,4 +5,4 @@
 - PXE server
 
 ### Kickstart
-- Anaconda
+- Kickstart
