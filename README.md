@@ -25,7 +25,7 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [ ]  Storage
 - [ ]  Boot
 - [ ]  Package management
-- [ ]  PXE and kickstart
+- [x]  PXE and kickstart
 - [ ]  Networks
 - [ ]  Basic Linux Security
 - [ ]  Automation
