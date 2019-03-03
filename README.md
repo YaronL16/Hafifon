@@ -28,11 +28,11 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [x]  PXE and kickstart
 - [ ]  Networks
 - [ ]  Basic Linux Security
-- [ ]  Automation
+- [x]  Ansible
 - [ ]  IT Tools
 - [x]  Identiy management
 - [x]  Time
 - [ ]  Virtualization
 - [x]  Miscellaneous
-- [ ]  Basic OpenStack and Basic OpenShift
+- [x]  Basic OpenStack and Basic OpenShift
 - [ ]  Team specific training
