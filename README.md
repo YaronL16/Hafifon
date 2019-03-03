@@ -29,7 +29,7 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [ ]  Networks
 - [ ]  Basic Linux Security
 - [x]  Ansible
-- [ ]  IT Tools
+- [x]  IT Tools
 - [x]  Identiy management
 - [x]  Time
 - [ ]  Virtualization
