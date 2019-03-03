@@ -1,7 +1,11 @@
 # IT Tools
 
 
-### Webservers and Proxies
+### Proxies
+- Normal proxies
+- Reverse proxies
+
+### Webservers
 - httpd
 - nginx
 - squid
