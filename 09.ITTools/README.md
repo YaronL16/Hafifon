@@ -1,8 +1,9 @@
 # IT Tools
 
 
-### Apache
+### Webservers and Proxies
 - httpd
+- nginx
 - squid
 
 ### HAProxy
