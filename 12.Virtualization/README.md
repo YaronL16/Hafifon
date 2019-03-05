@@ -1,11 +1,13 @@
 # Virtualization
 
 
+### Hypervisors
+- Types of hypervisors
+
 ### Virtual network
 - bridges
-- ovs
-- different virtual nic types
 - vxlan
+- ovs
 
 ### Containers
 - namespace
