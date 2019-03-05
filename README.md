@@ -32,7 +32,7 @@ An addition, a **team** training course will be held by the team the trainee is 
 - [x]  IT Tools
 - [x]  Identiy management
 - [x]  Time
-- [ ]  Virtualization
+- [x]  Virtualization
 - [x]  Miscellaneous
 - [x]  Basic OpenStack and Basic OpenShift
 - [ ]  Team specific training
