@@ -108,6 +108,7 @@ Or
 - `df`
 - `lsof`
 - `uname`
+- `watch`
 
 ### Logging
 - /var/log/*
@@ -135,6 +136,9 @@ Or
 ### Processes
 - /proc
 - /run
+- `jobs`
+- `bg`
+- `fg`
 
 ### Services
 - Runlevels
@@ -152,3 +156,6 @@ Or
 - `ssh-copy-id`
 - `scp`
 - SSH tunnels (Local, Remote and Dynamic)
+
+
+
