@@ -10,7 +10,7 @@
 - ovs
 
 ### Containers
-- namespace
+- namespaces
 - cgroups
 - Linux containers
 - Docker
