@@ -60,6 +60,7 @@ Or
 - `which`
 - `locate`
 - `find`
+- `ln`
 
 ### IO redirection and Pipes
 - Redirecting STDIN
