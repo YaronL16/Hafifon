@@ -52,6 +52,8 @@ Or
 - `tail`
 - `awk`
 - `sed`
+- `more`
+- `less`
 
 ### Basic file manipulation
 - `cp`
