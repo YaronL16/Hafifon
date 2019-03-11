@@ -69,6 +69,7 @@ Or
 - Redirecting STDOUT
 - Redirecting STDERR
 - Pipes
+- `tee`
 - `xargs`
 
 ### Users and groups
