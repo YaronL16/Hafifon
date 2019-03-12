@@ -82,10 +82,8 @@ Or
 - `groupmod`
 - `passwd`
 - /etc/passwd
-- /etc/shadows
+- /etc/shadow
 - /etc/group
-- setuid
-- setgid
 - `sudo`
 - `su`
 - /etc/sudoers
@@ -97,6 +95,8 @@ Or
 - `chown`
 - `chgrp`
 - Sticky bit
+- setuid
+- setgid
 - `umask`
 - `getfacl`
 - `setfacl`
