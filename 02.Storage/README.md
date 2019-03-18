@@ -19,6 +19,10 @@
 - GPT
 - MBR
 
+### Mounting
+- `mount`
+- /etc/fstab
+
 ### Raids
 - All types of raids
 - Hardware RAID
