@@ -31,7 +31,7 @@ Or
 ### Wildcards
 - `*`
 - `?`
-- `[...]`
+- `{...}`
 - `!...`
 
 ### Keyboard shorcuts
