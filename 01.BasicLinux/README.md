@@ -33,6 +33,7 @@ Or
 - `?`
 - `{...}`
 - `!...`
+- `$(...)`
 
 ### Keyboard shorcuts
 - Learn terminal keyboard shorcuts
