@@ -1,0 +1,27 @@
+## Encrypted Volumes
+
+### Goals
+ 
+- The trainee wil understand the difference between Block device encryption and Stacked filesystem encryption
+- The tainee will be familiar with
+    - possible attacks on encrypted volumes
+    - the following terms:
+        - LUKS
+        - trim
+    - the following commands:
+        - cryptsetup
+        - encfs
+        - ecryptfs
+
+### Tasks
+**_Note_**: make sure you do this tasks on a virtual machine because you **_will_** fuck things up
+- Encrypt your home directory on a file system level (play with it a bit and try a few way to do it)
+- Play with full disk encryption
+- Add 2 disks to a VM and do the following steps: 
+    - Create a mirrord logical volume
+    - Encrypt the new volume using LUKS
+    - Create a file system on the new encrypted volume and mount it
+    - Extend the volume (check that the mounted encrypted volume is really extended)
+    - Take a look on the output of lsblk and df
+    - Remove one of the PV used for your LV and look at lsblk and df again
+- Extreme level: Encrypt the disk containing the OS and swap space after linux installation. Why would you want to do that?
