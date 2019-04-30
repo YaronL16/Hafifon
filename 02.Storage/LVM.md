@@ -13,7 +13,7 @@
   - Logical extents
   - Device mapper
 
-- Give three ways to list the following:
+- Give three ways to list the followings:
   - All LVs
   - All VGs
   - All PVs
