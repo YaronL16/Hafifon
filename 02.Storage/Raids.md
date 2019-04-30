@@ -6,7 +6,7 @@
 
 ### Tasks
 - Read about:
-  - Raid 0-6 and summarize the diffrances 
+  - RAID levels 0-6 and summarize the diffrances between them
   - Software based RAID
   - hardware based RAID
   - firmware based RAID 
