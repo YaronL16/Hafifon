@@ -1,42 +1,29 @@
 ### Goals
 
-- The trainee will understand what is lvm
-- The trainee will understand how to use lvm related commands
-- The trainee will understand how to create and manage lvm's
+- The trainee will understand what is LVM
+- The trainee will understand how to use LVM related commands
+- The trainee will understand how to create and manage LVM
 
 ### Tasks
-- read about:
-  - phisical volumes
-  - volume groups
-  - logical volumes
-  - phisical extents
-  - logical extents
-  - device mapper
+- Read about:
+  - Phisical volumes
+  - Volume groups
+  - Logical volumes
+  - Phisical extents
+  - Logical extents
+  - Device mapPEr
 
-- read about the following commands:
-  - pvdisplay
-  - pvcreate
-  - pvs
-  - pvscan
-  - pvmove
-  - pvremove
-  - vgcreate
-  - vgdisplay
-  - vgs
-  - vgscan 
-  - vgremove
-  - vgextend
-  - vgreduce
-  - lvdisplay
-  - lvextend
-  - lvcreate
-  - lvs
-  - lvremove
-
-- create an lv out of two diffrent disks 
-- create a filesystem on the lv youve created 
-- add a disk to your machine and extend the vg and the lv you've created
-- reduce the size of the lv without harming the filesystem
-- draw a draw that explains the layers of an lvm including pe's and le's
-- explain how does the logical volume knows how to find all the data chuncks related to it 
+- Give three ways to list the following:
+  - All LVs
+  - All VGs
+  - All PVs
+- Create an LV out of two diffrent disks 
+- Create a fiLEsystem on the LV you've created 
+- Add a disk to your machine and extend the VG and the LV you've created
+- Reduce the size of the LV without harming the fiLEsystem
+- Reduce the size of the VG
+- Add another disk to your machine and move the data from one of the PVs to the new disk
+- Then remove everything from the top down (remove the LV then the VG and then the PV)
+- Draw a drawing that explains the layers of an LVm including PEs and LEs
+- Explain how does the logical volume know how to find all the data chuncks related to it 
 
