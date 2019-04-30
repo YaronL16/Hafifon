@@ -19,8 +19,8 @@
   - All PVs
 - Create an LV out of two diffrent disks 
 - Create a filesystem on the LV you've created 
-- Add a disk to your machine and extend the VG and the LV you've created
-- Reduce the size of the LV without harming the filesystem
+- Add a disk to your machine and extend the VG and the LV you've created (make sure to extend the filesystem as well)
+- Reduce the size of the LV without harming the filesystem 
 - Reduce the size of the VG
 - Add another disk to your machine and move the data from one of the PVs to the new disk
 - Then remove everything from the top down (remove the LV then the VG and then the PV)
