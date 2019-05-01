@@ -8,7 +8,7 @@
 - m.2
 
 ### Partitions
-- Partition types (Primary and Secondary)
+- Partition types (Primary and Extended)
 - `fdisk`
 - `parted`
 - `partprobe`
