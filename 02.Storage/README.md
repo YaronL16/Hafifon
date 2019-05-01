@@ -1,7 +1,7 @@
 # Storage
 
 
-### HDD vs SSD
+### Storage media
 - Difference between the two
 - nvme
 - SATA
