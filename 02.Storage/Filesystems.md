@@ -27,5 +27,6 @@
   - XFS
   - EXT4 with journal
 - extend the file systems youve created by 100M
+- explain what happens when a file is created and deleted in a filesytem
 - remove a file and restore it
  
