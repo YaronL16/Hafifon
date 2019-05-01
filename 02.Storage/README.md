@@ -13,11 +13,12 @@
 - `parted`
 - `partprobe`
 - `partx`
+- GPT
+- MBR
 
 ### Filesystems
 - Types of filesystems
-- GPT
-- MBR
+
 
 ### Mounting
 - `mount`
