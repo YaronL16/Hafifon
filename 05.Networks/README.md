@@ -43,12 +43,12 @@
 - TCP
 - UDP
 
-### Layer 7
-- HTTP
-
 ### Sniffers
 - `wireshark`
 - `tcpdump`
+
+### Layer 7
+- HTTP
 
 ### Networking files in Linux
 - /etc/hosts
