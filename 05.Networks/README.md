@@ -47,18 +47,7 @@
 - `wireshark`
 - `tcpdump`
 
-### Layer 7
-- HTTP
-
-### Networking files in Linux
-- /etc/hosts
-- /etc/resolv.conf
-- /etc/sysconfig/network
-- /etc/sysconfig/network-scripts/*
-
 ### Network commands
-- `arping`
-- `ping`
 - `traceroute`
 - `ifconfig`
 - `ifup`
@@ -71,13 +60,18 @@
 - `nmap`
 - `netcat`
 
+### HTTP
+- HTTP
+
 ### DHCP
 - DHCP flow
 - DHCP server
 - `dhclient`
   
 ### DNS
+- /etc/hosts
 - DNS server
+- /etc/resolv.conf
 - `dig`
 - `host`
 
