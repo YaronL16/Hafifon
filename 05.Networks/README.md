@@ -1,31 +1,22 @@
 # Networks
 
+### Introduction
+- Networking introducion
 
-### Hardware
+### Layer 1
 - Cables
 - Transceivers
-- Hubs
-- Bridges
-- Switches
-- Routers
-
-### Sniffers
-- `wireshark`
-- `tcpdump`
-
-### Networking files in Linux
-- /etc/hosts
-- /etc/resolv.conf
-- /etc/sysconfig/network
-- /etc/sysconfig/network-scripts/*
 
 ### Layer 2
 - MAC addresses
 - Frames
-- VLANs
-- 802.1q (VLAN tagging)
 - Broadcast domains
 - Collision domains
+- Hubs
+- Bridges
+- Switches
+- VLANs
+- 802.1q (VLAN tagging)
 - MTU
 
 ### Layer 3
@@ -38,6 +29,7 @@
 - Protocols
     - ARP
     - ICMP
+    - NAT
 - Routing schemes
     - Unicast
     - Broadcast
@@ -45,17 +37,17 @@
     - Anycast
     - Geocast
 - Packets
+- Routers
 
 ### Layer 4
 - TCP
 - UDP
 
-### Layer 7
-- HTTP
+### Sniffers
+- `wireshark`
+- `tcpdump`
 
 ### Network commands
-- `arping`
-- `ping`
 - `traceroute`
 - `ifconfig`
 - `ifup`
@@ -68,13 +60,18 @@
 - `nmap`
 - `netcat`
 
+### HTTP
+- HTTP
+
 ### DHCP
 - DHCP flow
 - DHCP server
 - `dhclient`
   
 ### DNS
+- /etc/hosts
 - DNS server
+- /etc/resolv.conf
 - `dig`
 - `host`
 
