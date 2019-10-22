@@ -1,0 +1,15 @@
+### Goals
+- The trainee will understand what is the home directory.
+- The trainee will be familiar with the linux home directory files.
+- The trainee will know how to use the home directory files.
+
+### Tasks
+- Explain what are the following files are used for:
+  - .bashrc
+  - .bash_profile
+  - .bash_history
+- Where are those file originate when you create a new home directory?
+- Why does root have its home directory under / and now under /home?
+- Make the terminal print a "WELCOME" massege whn you open it.
+- Make your linux write the current time into a file when you log out.
+

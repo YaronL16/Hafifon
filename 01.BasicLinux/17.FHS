@@ -1,0 +1,29 @@
+### Goals
+- The trainee will understand FHS layout.
+- The trainee will be familiar with the linux important directory.
+
+### Tasks
+- What is a psudo directories?
+- Explain what are the following directories are:
+  - /bin
+  - /boot
+  - /dev
+  - /etc
+  - /home
+  - /lib
+  - /lib64
+  - /lost+found
+  - /media
+  - /mnt
+  - /opt
+  - /proc
+  - /root
+  - /run
+  - /sbin
+  - /srv
+  - /sys
+  - /tmp
+  - /usr
+  - /var
+
+which ones are psudo directories and what does they contain and used for?

@@ -1,0 +1,18 @@
+
+### Goals
+- The trainee will understand what ate processes.
+- The trainee will know how to list and inspect all running processes
+
+
+### Tasks
+- How can I list all the running processes on a Linux machine?
+- what does /proc,/run directory are used for and whats in them?
+- what are jobs?
+- how do you start a job and stop a job?
+- how can you see running jobs?
+- what does the command bg does?
+- what does the command fg does?
+- what are pid and ppid?
+- what are zomby processes?
+- how does a new proesses is born (forking)?
+- what is fork-bomb?
