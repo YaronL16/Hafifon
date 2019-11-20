@@ -1,18 +1,25 @@
 # Table of content
 
+### All
 0.  Getting Started
 1.  Basic Linux
 2.  Storage
 3.  Boot
-4.  Package management
-5.  Networks
-6.  PXE and kickstart
-7.  Basic Linux Security
-8.  Automation
-9.  IT Tools
-10. Identiy management
-11. Time
-12. Virtualization
-13. Miscellaneous
-14. Basic OpenStack and Basic OpenShift
-15. Team specific training
+4.  Networks
+5.  Basic Linux Security
+6.  Ansible
+7.  IT Tools
+8.  Package Management
+9.  Time
+10. Git
+
+### CTO department
+1.  Identiy Management
+2.  PXE and Kickstart
+3.  Virtualization
+4.  Basic OpenStack
+5.  Team specific training
+
+### Cloud services
+
+### Big Data
