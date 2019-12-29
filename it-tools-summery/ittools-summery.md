@@ -12,5 +12,5 @@ You can add to the setup any other additional servers you think are required.
 **Bonus:** Do not edit any server’s `/etc/hosts` file.
 
 Illustration:
-![a][catsfood.com]
-![b][bighead.com]
+![a][https://gitlab.com/wintrow.vestrit.1/the-hitchikers-guide-to-the-cts/blob/it-tools-exercise/it-tools-summery/catsfood.png]
+![b][https://gitlab.com/wintrow.vestrit.1/the-hitchikers-guide-to-the-cts/blob/it-tools-exercise/it-tools-summery/bighead.png]
