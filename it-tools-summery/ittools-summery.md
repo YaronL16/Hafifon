@@ -12,3 +12,5 @@ You can add to the setup any other additional servers you think are required.
 **Bonus:** Do not edit any server’s `/etc/hosts` file.
 
 Illustration:
+![a][catsfood.com]
+![b][bighead.com]
