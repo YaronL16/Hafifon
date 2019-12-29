@@ -1,3 +1,4 @@
+#### The task
 Use **Ansible** to create the following setup:  
 
 Two **HAProxy** servers that are clustered using **Keepalived**. They are used as reverse proxies for two **Apache** webservers _“catsfood.com”_ and _“bighead.com”_.
@@ -11,8 +12,12 @@ You can add to the setup any other additional servers you think are required.
 
 **Bonus:** Do not edit any server’s `/etc/hosts` file.
 
-Illustration:  
+#### Illustration
+
+The client surfs to `https://catsfood.com`, the proxy cluster redirects the request to catsfood.com:
 ![alt text1][catsfood]
+
+The client surfs to `https://bighead.com`, the proxy cluster redirects the request to bighead.com:
 ![alt text1][bighead]
 
 
