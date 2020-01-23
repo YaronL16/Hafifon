@@ -31,3 +31,6 @@
 
 ### LVM
 - All lvm
+
+### Object Storage
+- Be Familiar with object storage usecases
