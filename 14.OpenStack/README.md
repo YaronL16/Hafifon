@@ -1,10 +1,7 @@
-# Basic OpenStack and Basic OpenShift
+# Basic OpenStack
 
 
 ### OpenStack
 - Openstack services
 - Devstack deployment
 - Openstack CLI
-
-### OpenShift
-- OpenShift 1 course
