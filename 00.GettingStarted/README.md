@@ -10,5 +10,5 @@
 
 ### Starting to work
 - Install **VirtualBox** or **VirtManager** and **Vagrant** on the trainee's workstation
-- Start a centos/7 VM 
+- Start a centos/7 VM
 - The trainee can now get his hands dirty using this VM
