@@ -1,13 +1,8 @@
 # Virtualization
 
-
 ### Hypervisors
 - Types of hypervisors
-
-### Virtual network
-- bridges
-- vxlan
-- ovs
+- Differences between a physical server and a VM
 
 ### Containers
 - namespaces
