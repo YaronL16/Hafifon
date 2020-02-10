@@ -3,10 +3,6 @@
 ### Introduction
 - Networking introducion
 
-### Layer 1
-- Cables
-- Transceivers
-
 ### Layer 2
 - MAC addresses
 - Frames
@@ -78,4 +74,3 @@
 ### Bonds and teams
 - Bonds
 - Teams
-- LACP
