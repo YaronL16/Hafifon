@@ -1,17 +1,25 @@
 # Welcome to the cloud
 
 - Cloud Computing Introduction
-  - [Getting started with cloud computing](https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/)
+  - **[Udemy]** [Getting started with cloud computing](https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/)
   - [AWS's shared responibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
   - [Azure's shared responsibility in the cloud](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 - Linux Introduction (Optional)
   - [Linux Journey](https://linuxjourney.com/)
-  - [Linux Command Line](https://www.udemy.com/course/linux-command-line-volume1/) 
+  - **[Udemy]** [Linux Command Line](https://www.udemy.com/course/linux-command-line-volume1/) 
+  - **[RedHat]**  [Red Hat System Administration I](https://rol.redhat.com/rol/app/courses/rh124-8.0/pages/pr01) 
+  - **[RedHat]**  [Red Hat System Administration II](https://rol.redhat.com/rol/app/courses/rh134-8.0/pages/pr01) 
+  - **[RedHat]**  [Red Hat System Administration III](https://rol.redhat.com/rol/app/courses/rh254-7/pages/ch10s06) 
 - Containers and Docker
-  - [Learn Docker](https://www.udemy.com/course/learn-docker/)
+  - **[Udemy]** [Learn Docker](https://www.udemy.com/course/learn-docker/)
+  - **[RedHat]** [Containerizing Software Applications](https://rol.redhat.com/rol/app/courses/do276-7.2/pages/ch01)
 - Kubernetes / OpenShift
-  - [Ultimate openshift bootcamp by school of devops](https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/)
+  - **[Udemy]** [Ultimate openshift bootcamp by school of devops](https://www.udemy.com/course/ultimate-openshift-bootcamp-by-school-of-devops/)
+  - **[RedHat]** [Introduction to Containers, Kubernetes, and Red Hat OpenShift](https://rol.redhat.com/rol/app/courses/do180-4.2/pages/pr01)
+  - **[RedHat]** [Red Hat OpenShift Development I: Containerizing Applications](https://rol.redhat.com/rol/app/courses/do288-4.2/pages/pr01)
 - OpenStack
-  - ???
-- CI/CD
-  - [Gitlab CI/CD pipelines for beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
+  - **[RedHat]** [Red Hat OpenStack Administration I: Core Operations for Cloud Operators](https://rol.redhat.com/rol/app/courses/cl110-13.0/pages/pr01)
+- CI/CD and Devops
+  - **[Udemy]** [Gitlab CI/CD pipelines for beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
+  - **[RedHat]** [Automation with Ansible](https://rol.redhat.com/rol/app/courses/do407-2.7/pages/pr01)
+  - **[RedHat]** [Advanced Automation: Ansible Best Practices](https://rol.redhat.com/rol/app/courses/do447-2.8/pages/pr01)
