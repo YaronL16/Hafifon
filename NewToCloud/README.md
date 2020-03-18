@@ -1,9 +1,9 @@
 # Welcome to the cloud
 
 - Cloud Computing Introduction
-  - **[Udemy]** [Getting started with cloud computing](https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/)
   - [AWS's shared responibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
   - [Azure's shared responsibility in the cloud](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+  - **[Udemy]** [Getting started with cloud computing](https://www.udemy.com/course/getting-started-with-cloud-computing-level-1/)
 - Linux Introduction (Optional)
   - [Linux Journey](https://linuxjourney.com/)
   - **[Udemy]** [Linux Command Line](https://www.udemy.com/course/linux-command-line-volume1/) 
