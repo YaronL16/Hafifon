@@ -1,3 +1,7 @@
-# The hitchiker's guide to the CTS
+# Hafifon
 
-This repo contains the subjects that are important for every cloud manager.
+This repo contains the subjects that are important for every Edge Computing developer.
+
+The syllabus of the hafifa:
+
+[](images/Hafifa.png)
