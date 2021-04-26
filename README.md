@@ -4,4 +4,4 @@ This repo contains the subjects that are important for every Edge Computing deve
 
 The syllabus of the hafifa:
 
-![](images/Hafifa2.png)
+![](images/Hafifa3.png)
