@@ -1,12 +1,6 @@
 # Storage
 
 
-### Storage media
-- Difference between the two
-- nvme
-- SATA
-- m.2
-
 ### Partitions
 - Partition types (Primary and Extended)
 - `fdisk`
@@ -19,6 +13,8 @@
 ### Filesystems
 - Types of filesystems
 
+### LVM
+- All lvm
 
 ### Mounting
 - `mount`
@@ -29,5 +25,4 @@
 - Hardware RAID
 - Software RAID
 
-### LVM
-- All lvm
+
