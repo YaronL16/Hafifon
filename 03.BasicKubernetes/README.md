@@ -12,4 +12,4 @@
 
     4. Services in k8s
 
-    5. k8s deployments
+    5. K8s deployments
