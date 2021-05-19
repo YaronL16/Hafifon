@@ -2,6 +2,14 @@
 - The trainee will get familiar with Basic concepts of k8s
 
 ### Tasks
-- Read about YAML
-- List all the YAML data types
-- Tranlate the given JSON (below) to YAML
+- Go over the [drive](https://drive.google.com/drive/folders/1HBzBQ3RkUXlEzXTcfTn8M2CGiDZpiPd-)  and learn about the basic concepts of:
+
+    1. What is kubernetes?
+    
+    2. Basic k8s architecture
+    
+    3. What are Pods
+
+    4. Seevices in k8s
+
+    5. k8s deployments
