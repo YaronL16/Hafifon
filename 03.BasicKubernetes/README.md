@@ -10,6 +10,6 @@
     
     3. What are Pods
 
-    4. Seevices in k8s
+    4. Services in k8s
 
     5. k8s deployments
