@@ -7,7 +7,7 @@
 ### Tasks
 
 - Read the following book: [Docker Deep Dive](https://drive.google.com/drive/folders/1wuXO4WNv3jLHv3TMkZeNBpErAr7lTd4y)
-- 
+
   **Do NOT read the following chapters:**
   - Docker swarm
   - Deploying apps with docker stacks
@@ -15,21 +15,23 @@
   - Enterprise-grade features
   - Appendix B, and C
 
-- **Answer the following questions while reading the book:**
-- **Containers**
-   - What are containers?
-    - What are the differences between containers and VMs?
-    - What are self-healing containers with restart policies? (References: always, unless-stopped, on-failed)
-    - When does a container stop running?
+
+ **Answer the following questions while reading the book:**
+
+ **Containers**
+  - What are containers?
+  - What are the differences between containers and VMs?
+  - What are self-healing containers with restart policies? (References: always, unless-stopped, on-failed)
+  - When does a container stop running?
     
-- **Docker Engine**
+ **Docker Engine**
   - What is the docker engine and what are the major components that make up the docker engine?
   - Explain what each component is responsible for.
   - What are the benefits of the new modular docker engine model?
   - How are containers able to run without the daemon?                   (References: runc process, STDIN & STDOUT streams)
-  - Explain the flow of the process ...
+  - Explain the whole process of how a container is created from the moment we enter a command in the CLI.
 
-- **Images & Builds**
+ **Images & Builds**
   - What are images and what are they made up of?
   - How can you push an image to a 3rd party registry? What if the registry's certificate expired? 
   - Explain image sharing.
@@ -63,7 +65,8 @@
 
 **Security**
 - Explain each of the following technologies in detail (without MAC and Swarm mode)
- <img src="./image2.png"  width="550" height="350">
+ <img src="./image2.png"  width="610" height="270">
+
 - How do namespaces help us create isolated environments? What are containers REALLY now that you learned this?
 - Why would we need to limit containers OS resources usage?
 
@@ -74,10 +77,10 @@
   - If containers are more efficient than VMs, why do we still sometimes use VMs and containers on top of them?
   - How can we detach from a container without exiting?
   - How would companies deliver apps before containers and VMs?
-  **More knowledge!**
-     
-    - Read a bit about CRI-O and rkt
-    - How does the Open Container Initiative help us swap out container runtimes? Briefly read the following: [Dont Panic! K8s drops Docker](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/)
+
+  **More knowledge!**   
+  - Read a bit about CRI-O and rkt
+  - How does the Open Container Initiative help us swap out container runtimes? Briefly read the following: [Dont Panic! K8s drops Docker](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/)
 
 
 
