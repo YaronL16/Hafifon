@@ -35,8 +35,7 @@
   - Explain image sharing.
   - An image in production was accidentally tagged with the same tag as an older image, how can we still differentiate between the two? (Hint: The image content is different)
   -  What are Multi-architecture images? (References: mafinests lists, manifests)
-  - What is a dockerfile? give an example of instructions that do not add layers to the image.
-  
+  - What is a dockerfile? give an example of instructions that do not add layers to the image. 
   - What are Multi-stage builds? Why do we need them? What do we learn from it about the way we work with containers and images?
   - What is image squashing? what functionality do we lose when we squash an image?
   - What is docker compose?
@@ -51,7 +50,10 @@
   - Why cant we use MACVLAN in public cloud platforms?
   - What is service discovery?
   - What are docker overlay networks? How are they different from single-host networks?
-  - Explain the following process if C1 wants to send a message to C2: ![Overlay Networking Exercise](./image1png.png =100x20)
+  - Explain the following process if C1 wants to send a message to C2: 
+  <img src="./image1.png"  width="550" height="350">
+
+
   (References: VNID Encapsulation & Decapsulation, VXLAN, VTEP, default br0 bridge)
  
  **Volumes and persistent data**
@@ -60,12 +62,14 @@
    - What is a major concern with external storage systems shared volumes?
 
 **Security**
-- Explain each of the following technologies in detail (without MAC and Swarm mode [Docker Security Technologies](https://imgur.com/a/Qwh8ZYw)
+- Explain each of the following technologies in detail (without MAC and Swarm mode)
+ <img src="./image2.png"  width="550" height="350">
 - How do namespaces help us create isolated environments? What are containers REALLY now that you learned this?
 - Why would we need to limit containers OS resources usage?
 
 
 **Summary questions**
+  - How will you troubleshoot a failed container?
   - Using what command can we view details of images or containers?
   - If containers are more efficient than VMs, why do we still sometimes use VMs and containers on top of them?
   - How can we detach from a container without exiting?
