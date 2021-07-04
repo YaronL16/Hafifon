@@ -51,7 +51,7 @@
   - Why cant we use MACVLAN in public cloud platforms?
   - What is service discovery?
   - What are docker overlay networks? How are they different from single-host networks?
-  - Explain the following process if C1 wants to send a message to C2: ![Overlay Networking Exercise](image1png.png=100x20)
+  - Explain the following process if C1 wants to send a message to C2: ![Overlay Networking Exercise](./image1png.png=100x20)
   (References: VNID Encapsulation & Decapsulation, VXLAN, VTEP, default br0 bridge)
  
  **Volumes and persistent data**
