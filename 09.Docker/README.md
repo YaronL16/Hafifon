@@ -18,6 +18,9 @@
 
  **Answer the following questions while reading the book:**
 
+  Pay attantion the questions are not in the exact order. You should continue reading and only if you finished the book search the missing answers. 
+  Are all questions answered? You are ready to go :wink: :sparkles:
+
  **Containers**
   - What are containers?
   - What are the differences between containers and VMs?
