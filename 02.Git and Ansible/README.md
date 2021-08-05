@@ -13,15 +13,15 @@
 - Playbooks
 - Roles
 
-read over all Ansible official docs, except:
-- become and windows
-- migrating from with x to loops
-- adding controls to loops
-- testing truthiness
-- working with language specific version managers
-- playbook tags
-- working with dynamic inventory
-- connection methods and details
-- command line tools
-- interactive input prompts
+### Concepts that aren't relevant
+- become-and-windows
+- migrating-from-with-x-to-loop
+- adding-controls-to-loops
+- testing-truthiness
+- working-with-language-specific-version-managers
+- playbooks_tags
+- Working with dynamic inventory
+- Connection methods and details
+- Command line tools
+- Interactive input prompts
 
