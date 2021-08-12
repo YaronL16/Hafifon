@@ -22,6 +22,7 @@
   Are all questions answered? You are ready to go :wink: :sparkles:
 
  **Containers**
+  - How would companies deliver apps before containers and VMs?
   - What are containers?
   - What are the differences between containers and VMs?
   - What are self-healing containers with restart policies? (References: always, unless-stopped, on-failed)
@@ -79,7 +80,6 @@
   - Using what command can we view details of images or containers?
   - If containers are more efficient than VMs, why do we still sometimes use VMs and containers on top of them?
   - How can we detach from a container without exiting?
-  - How would companies deliver apps before containers and VMs?
 
   **More knowledge!**   
   - Read a bit about CRI-O and rkt
