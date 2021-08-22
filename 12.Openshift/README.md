@@ -1,3 +1,23 @@
-# The hitchiker's guide to the CTS
+# Openshift
 
-This repo contains the subjects that are important for every cloud manager.
+The difference between Openshift and Kubernetes
+Route - Ingress Operator
+
+**Mgmt Operators**
+authentication
+console
+etcd
+ingress
+openshift-apiserver
+machine-config
+network
+dns
+image registry
+
+How to install openshift 
+ - Igition files
+ - bootstrap
+
+
+The process of creating openshift cluster with Tower Workflow
+Read the Troublshooting OCP doc in the tactic environment
