@@ -23,7 +23,7 @@ Understand the network flow of a packet into the pod of an openshift cluster.
 
 ### Openshift Installation
 
-How to install openshift 
+How to install openshift on bare metal and vsphere
  - Igition files
  - bootstrap
 
