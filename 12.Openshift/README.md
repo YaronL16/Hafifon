@@ -2,7 +2,8 @@
 
 ### Intro and others
 The difference between Openshift and Kubernetes
-What is route, and what is the difference between Ingress Operator
+ - What is route, and what is the difference between Ingress Operator
+ - What is the difference between operator and a controller?
 
 ### Mgmt Operators
 
