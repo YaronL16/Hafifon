@@ -4,6 +4,7 @@
 The difference between Openshift and Kubernetes
  - What is route, and what is the difference between Ingress Operator
  - What is the difference between operator and a controller?
+ - Read about the [creation of ansible operators](https://learn.openshift.com/ansibleop/ansible-operator-overview/?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW)
 
 ### Mgmt Operators
 
