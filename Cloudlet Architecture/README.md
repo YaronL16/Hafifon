@@ -4,5 +4,5 @@
 
 ### Tasks
 
-- Read the following document about Cloudlet's project architecture, written by Anoel Yakoubov(last updated on May 2020): [Cloudlet Architecture](https://docs.google.com/document/d/1WJKDShR6TAXVY2iECf-cmcDKt461ZomBzJPPRicmETw/edit?usp=sharing). It should give you a good idea about the project and the "why" for this Hafifa, before learning the next topics. 
-Beware not to edit the file!
+- Read the following document about Cloudlet's project architecture, written by Anoel Yakoubov(last updated on May 2020): [Cloudlet Architecture](https://docs.google.com/document/d/1WJKDShR6TAXVY2iECf-cmcDKt461ZomBzJPPRicmETw/edit?usp=sharing). It should give you a good idea about the project and the "why" for learning the next topics. 
+\Beware not to edit the file!
