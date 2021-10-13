@@ -1,3 +1,9 @@
-# The hitchiker's guide to the CTS
+### Goals
 
-This repo contains the subjects that are important for every cloud manager.
+- The trainee will understand k8s's components and architecture
+
+  
+
+### Tasks
+
+- Read the following book: [Kubernetes in action] https://drive.google.com/file/d/1XVZp5QlZh3R9R--sPchcUV7kGlOUz6g4/view?usp=sharing
