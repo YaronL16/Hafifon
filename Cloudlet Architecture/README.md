@@ -1,9 +1,8 @@
 ### Goals
 
-- The trainee will understand k8s's components and architecture
-
-  
+- The trainee will understand Cloudlet's architecture and technologies
 
 ### Tasks
 
-- Read the following book: [Kubernetes in action] https://drive.google.com/file/d/1XVZp5QlZh3R9R--sPchcUV7kGlOUz6g4/view?usp=sharing
+- Read the following document about Cloudlet's project architecture, written by Anoel Yakoubov(last updated on May 2020): [Cloudlet Architecture](https://docs.google.com/document/d/1WJKDShR6TAXVY2iECf-cmcDKt461ZomBzJPPRicmETw/edit?usp=sharing). It should give you a good idea about the project and the "why" for this Hafifa, before learning the next topics. 
+Beware not to edit the file!
