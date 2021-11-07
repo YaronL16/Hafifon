@@ -7,6 +7,7 @@
 
 ### Some reading
 - Read about the different Linux distributions
+- If you are not familiar with, read about virtual machines (what are they and what are they used for)
 
 ### Starting to work
 - Install **VirtualBox** or **VirtManager** and **Vagrant** on the trainee's workstation
