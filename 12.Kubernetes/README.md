@@ -13,13 +13,13 @@
 
   - [The Kubernetes Book by Nigel Poulton (a shorter version)](https://drive.google.com/file/d/1tnHb9ijciKs6cI07XJrg4TUrCWjNtaUu/view)
 
-## Questions
+### Questions
 **Answer the following questions while reading the book:**
 
   Pay attantion the questions are not in the exact order. You should continue reading and only if you finished the book search the missing answers. 
   Are all questions answered? You are ready to go :wink: :sparkles:
   
-**Introducing Kubernetes:**
+**Introducing Kubernetes**
   - What are some of the benefits of microservices applications over monolith applications?
   - What are the challenges that come with microservices architecture?
   - What necessity has led Google to develop Kubernetes?
@@ -63,7 +63,7 @@
   - How StatefulSets manage volumes?
   - How StatefulSets handle failures?
 
-**K8s internals:**
+**K8s internals**
   - What components make up the control plane and what each of them does?
   - What components run on the worker nodes? What do each of them do?
   - How do all of these components communicate?
@@ -76,13 +76,13 @@
   - why the number of etcd instances should be an odd-number? 
   - Extra: Is there a kubelet on the master?
 
-**Securing the kubernetes api server:**
+**Securing the kubernetes api server**
   - What is a ServiceAccount?
   - What are the RBAC components?
   - What happens when you bind a Role with a ClusterRoleBinding?
   - What happens when you bind a ClusterRole with a RoleBinding?
 
-**Securing cluster nodes:**
+**Securing cluster nodes**
   - What is PodSecurityPolicy?
   - read about openshift SCC
   - Managing pod’s computational resources:
@@ -91,22 +91,19 @@
   - Why do we need resource requests and limits?
   - What is the difference between the ResourceQuota object and the LimitRange object?
 
-**Automatic scaling of pods and cluster nodes:**
+**Automatic scaling of pods and cluster nodes**
   - What are horizontal and vertical scaling and why do we need them?
   - How can you perform horizontal scaling in k8s?
 
-**Advanced scheduling:**
+**Advanced scheduling**
   - how can you ensure pods are not scheduled to certain nodes?
   - how can you ensure pods are only scheduled to specific nodes? 
   - How can you keep certain pods away from each other?
 
-**Best practices for developing apps:**
+**Best practices for developing apps**
   - describe a typical application in kubernetes (all resources that make up the app)
   - What are init containers?
   - What is CustomResource? When would you use it?
   - What is CustomResourceDefinition?
   - What is a custom controller and why do we need it?
   - extra : read about MutatingAdmissionWebhook and ValidatingAdmissionWebhook.
-
-
-
