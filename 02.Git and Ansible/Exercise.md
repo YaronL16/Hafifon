@@ -12,8 +12,4 @@ Run on 2 nodes:
 systemctl stop firewalld 
 This will turn off the firewall service. It is a not recommended temporary solution, but you will learn about it later on in Networking.
 
-* Notice - you may encounter a problem accessing your site due to firewall rules. Run the following command on the two nodes:
-systemctl stop firewalld 
-This will turn off the firewall service. It is a not recommended temporary solution, but you will learn about it later on in Networking.
-
 Be creative! Add error handling, roles and etc. enjoy!
