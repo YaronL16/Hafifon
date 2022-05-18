@@ -8,6 +8,7 @@
     - How does a Route work?
     - How does Route differ from Ingress?
     - How do Routes work in our tactic environment?
+    - What are the different types of TLS Terminations that can be used by Routes?
 - CSR
     - What are CSR's used for?
     - How are CSR's renewed?
