@@ -13,26 +13,23 @@
     - What are CSR's used for?
     - How are CSR's renewed?
     - What can cause an expiriration of cluster certificates? (Hint: Often happens in cloudlets)
-- DeploymentConfig
-    - How does DeploymentConfig differs from Deployment?
-- Project
-    - How does Project differ from Namespaces?
 
 ### Cluster Operators
+What is the responsiblity of the following Cluster Operators?
 
-1. authentication
-2. console
-3. etcd
-4. ingress
-5. openshift-apiserver
-6. machine-config
-7. network
-8. dns
-9. image registry
+- authentication
+- console
+- etcd
+- ingress
+- openshift-apiserver
+- machine-config
+- network
+- dns
+- image registry
 
 ### Network flow
 
-Understand the network flow of a packet into the pod of an openshift cluster.
+Understand the network flow of a request into the pod of an openshift cluster.
 
 
 ### Openshift Installation
@@ -48,7 +45,7 @@ Understand the network flow of a packet into the pod of an openshift cluster.
 - Read about the [creation of ansible operators](https://learn.openshift.com/ansibleop/ansible-operator-overview/?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW)
 
 ### Tactic environment
-- Read and understand the Ansible Tower workflow for creating a Cloudlet
+- Read and understand the Ansible Tower workflow for installing a Cloudlet
     - Login to Ansible Tower in our environment (Ask a team member to help)
     - Go to Templates
     - Search for "Deploy Full Cloudlet" Workflow Template
