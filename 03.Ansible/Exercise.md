@@ -2,7 +2,7 @@ Recommended to do after you've learned at least loops.
 
 Run on 2 nodes:
 1. deploy nginx
-2. pass a jinja template of nginx configuration file:
+2. pass a Jinja template of nginx configuration file:
     1. FQDN and port as group parameters
     2. root as host parameters
 3. pass a different html file to each node/server

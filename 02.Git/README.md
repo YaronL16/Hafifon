@@ -15,4 +15,5 @@
 - Explain how does `git reset` work
 - In your own repository, create a situation where there is a conflict between two branches, then resolve the conflicts and merge the branches
 - Complete the [tutorial](https://learngitbranching.js.org/)
+- What is git rebase? When can it be useful?
 - At last create username for yourself in [Gitlab](https://gitlab.com/) and a repository if you don't have already - you will save there all your ansible scripts from now on.
