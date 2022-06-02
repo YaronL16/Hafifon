@@ -62,6 +62,7 @@
   - How StatefulSets create and scale stateful pods? Explain about the ordinal index
   - How StatefulSets manage volumes?
   - How StatefulSets handle failures?
+  - Why are headless services useful when using StatefulSets?
 
 **K8s internals**
   - What components make up the control plane and what each of them does?
@@ -84,7 +85,7 @@
 
 **Securing cluster nodes**
   - What is PodSecurityPolicy?
-  - read about openshift SCC
+  - Read about openshift SCC
   - Managing pod’s computational resources:
   - how can you limit the pod’s resources (requests, limits ,QOS etc)
   - How does the cpu request affect the system?
