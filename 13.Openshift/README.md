@@ -5,14 +5,15 @@
 
 ### Openshift Resources
 - Route
+    - Why are Routes useful?
     - How does a Route work?
-    - How does Route differ from Ingress?
-    - How do Routes work in our tactic environment?
     - What are the different types of TLS Terminations that can be used by Routes?
+    - How does a request to a route's URL reaches the Service?
+    - How do Routes work in our tactic environment (Helper)?
 - CSR
     - What are CSR's used for?
     - How are CSR's renewed?
-    - What can cause an expiriration of cluster certificates? (Hint: Often happens in cloudlets)
+    - What can cause an expiriration of cluster certificates? (Often happens in our cloudlets)
 
 ### Cluster Operators
 What is the responsiblity of the following Cluster Operators?
@@ -26,11 +27,6 @@ What is the responsiblity of the following Cluster Operators?
 - network
 - dns
 - image registry
-
-### Network flow
-
-Understand the network flow of a request into the pod of an openshift cluster.
-
 
 ### Openshift Installation
 - How to install openshift on bare metal and vsphere
