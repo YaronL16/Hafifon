@@ -29,16 +29,14 @@ What is the responsiblity of the following Cluster Operators?
 - image registry
 
 ### Openshift Installation
-- How to install openshift on bare metal and vsphere
-    - Igition files
-    - bootstrap
+- Read about ignition files for OpenShift and the Bootstrap process of a cluster
 - What is the different between UPI and IPI installations (User/Installer provisioned installation)?
-- Read about Kubernetes CSI
-    - How do CSI's work in OpenShift? 
+- What is a Kubernets CSI? Why is it important to setup right after the installation of a cluster?
+
 
 ### Custom Operators
-- What is the difference between operator and a controller?
-- Read about the [creation of ansible operators](https://learn.openshift.com/ansibleop/ansible-operator-overview/?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW)
+- What is the difference between an operator and a controller?
+- Read about the [creation of ansible operators](https://docs.openshift.com/container-platform/4.6/operators/operator_sdk/osdk-ansible.html)
 
 ### Tactic environment
 - Read and understand the Ansible Tower workflow for installing a Cloudlet
