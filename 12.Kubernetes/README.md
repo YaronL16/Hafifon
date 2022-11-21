@@ -14,7 +14,7 @@
     - 15.3
     - 17.4
     - 17.5
-    - 18.2 and onwards
+    - 18.2 and onwards, except Appendix A
 
 
 **Additional Sources**
