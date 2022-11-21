@@ -8,10 +8,19 @@
 
 - Read the following book: [Kubernetes in action](https://drive.google.com/file/d/1XVZp5QlZh3R9R--sPchcUV7kGlOUz6g4/view?usp=sharing)
 
-  **More Sources**
-  - [Certified Kubernetes Administrator course from udemy](https://drive.google.com/drive/folders/1GNXztUdtESDTt5uefyV7n5NpofaxLPn4?usp=sharing)
+  It is recommended to deploy minikube on your own VM and get hands-on experience while you are reading the book :)
 
-  - [The Kubernetes Book by Nigel Poulton (a shorter version)](https://drive.google.com/file/d/1tnHb9ijciKs6cI07XJrg4TUrCWjNtaUu/view)
+  **Skip the following chapters**:
+    - 15.3
+    - 17.4
+    - 17.5
+    - 18.2 and onwards
+
+
+**Additional Sources**
+- [Certified Kubernetes Administrator course from Udemy](https://drive.google.com/drive/folders/1GNXztUdtESDTt5uefyV7n5NpofaxLPn4?usp=sharing)
+
+- [The Kubernetes Book by Nigel Poulton (a shorter version)](https://drive.google.com/file/d/1tnHb9ijciKs6cI07XJrg4TUrCWjNtaUu/view)
 
 ### Questions
 **Answer the following questions while reading the book:**
