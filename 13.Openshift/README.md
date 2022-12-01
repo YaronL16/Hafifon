@@ -50,3 +50,4 @@ What is the responsiblity of the following Cluster Operators?
     - Note: Check out the roles and `requirements.yml`, many roles are used in the workflow playbooks
     - Note: If you want to dive deeper and understand every role, 
             you can read the Hafifon in Confluence to get a better understanding of our environment
+- Read the Troubleshooting OCP doc in the tactic environment
