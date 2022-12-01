@@ -48,5 +48,5 @@ What is the responsiblity of the following Cluster Operators?
         - Search for the playbook's project
         - Go to the git URL specified in the project, and read the playbook referenced in the Job Template for that project
     - Note: Check out the roles and `requirements.yml`, many roles are used in the workflow playbooks
-- Read the Troubleshooting OCP doc in the tactic environment
-
+    - Note: If you want to dive deeper and understand every role, 
+            you can read the Hafifon in Confluence to get a better understanding of our environment
