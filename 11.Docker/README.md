@@ -21,7 +21,7 @@
   Pay attantion the questions are not in the exact order. You should continue reading and only if you finished the book search the missing answers. 
   Are all questions answered? You are ready to go :wink: :sparkles:
 
- **Containers**
+ **Containers from 30,000 feet**
   - How would companies deliver apps before containers and VMs?
   - What are containers?
   - What are the differences between containers and VMs?
