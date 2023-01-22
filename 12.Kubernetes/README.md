@@ -63,7 +63,7 @@
 
 **Deployments**
   - What are Deployments? 
-  - How does rolling updates work?
+  - How do rolling updates work?
   - How are rollbacks possible?
 
 **StatefulSets**
