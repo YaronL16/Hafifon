@@ -21,12 +21,9 @@
   Pay attantion the questions are not in the exact order. You should continue reading and only if you finished the book search the missing answers. 
   Are all questions answered? You are ready to go :wink: :sparkles:
 
- **Containers**
+ **Containers from 30,000 feet**
   - How would companies deliver apps before containers and VMs?
   - What are containers?
-  - What are the differences between containers and VMs?
-  - What are self-healing containers with restart policies? (References: always, unless-stopped, on-failed)
-  - When does a container stop running?
     
  **Docker Engine**
   - What is the docker engine and what are the major components that make up the docker engine?
@@ -41,9 +38,18 @@
   - Explain image sharing.
   - An image in production was accidentally tagged with the same tag as an older image, how can we still differentiate between the two? (Hint: The image content is different)
   -  What are Multi-architecture images? (References: mafinests lists, manifests)
+
+**Containers**
+  - What are the differences between containers and VMs?
+  - What are self-healing containers with restart policies? (References: always, unless-stopped, on-failed)
+  - When does a container stop running?
+
+**Containerizing an app**
   - What is a dockerfile? give an example of instructions that do not add layers to the image. 
   - What are Multi-stage builds? Why do we need them? What do we learn from it about the way we work with containers and images?
   - What is image squashing? what functionality do we lose when we squash an image?
+
+**Docker Compose**
   - What is docker compose?
 
 **Networking**
