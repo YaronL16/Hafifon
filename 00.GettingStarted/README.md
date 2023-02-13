@@ -13,3 +13,5 @@
 - Install **VirtualBox** or **VirtManager** and **Vagrant** on the trainee's workstation
 - Start a centos/7 VM
 - The trainee can now get his hands dirty using this VM
+- You may download the ova file in the link below and use it to start a machine or ask a team member for the file. The password for root user is root. 
+https://drive.google.com/file/d/132YopcJYOHAtu7LP16PjFBf3E0JAfucT/view?usp=share_link

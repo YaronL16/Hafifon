@@ -74,7 +74,7 @@
   - Why are headless services useful when using StatefulSets?
 
 **K8s internals**
-  - What components make up the control plane and what each of them does?
+  - What components make up the control plane and what do each of them do?
   - What components run on the worker nodes? What do each of them do?
   - How do all of these components communicate?
   - How does the scheduler choose what node is the best for a deployment?
